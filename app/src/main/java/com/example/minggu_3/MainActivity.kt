@@ -79,4 +79,5 @@ class MainActivity : AppCompatActivity() {
         tvScoreA.text = scoreViewModel.scoreTeamA.toString()
         tvScoreB.text = scoreViewModel.scoreTeamB.toString()
     }
+
 }
